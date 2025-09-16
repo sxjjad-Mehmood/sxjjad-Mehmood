@@ -33,9 +33,9 @@
 
 ## 📌 Projects
 
-- 📱 [**NewsNest**](https://github.com/sxjjad-Mehmood/newsapp) – A Flutter news app using NewsAPI with categories and details view  
-- 🎬 [**Netflix Clone**](https://github.com/sxjjad-Mehmood/netflix-clone) – Netflix-style UI built with Flutter & TMDB API + Firebase Authentication  
-- 🌍 [**Travel App**](https://github.com/sxjjad-Mehmood/travel-app) – Flutter app with Firebase, Google Maps & Provider  
+- 📱 [**NewsNest**](https://github.com/sxjjad-Mehmood/NewsNest-) – A Flutter news app using NewsAPI with categories and details view  
+- 🎬 [**Netflix Clone**](https://github.com/sxjjad-Mehmood/Netflix-ui-clone-) – Netflix-style UI built with Flutter & TMDB API + Firebase Authentication  
+- 🌍 [**Travel App**](https://github.com/sxjjad-Mehmood/flutter-travel-app-) – Flutter app with Firebase, Google Maps & Provider  
 
 ---
 
